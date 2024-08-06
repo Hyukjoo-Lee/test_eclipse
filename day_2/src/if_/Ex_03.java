@@ -1,6 +1,6 @@
 package if_;
 
-public class Ex_3 {
+public class Ex_03 {
 
 	public static void main(String[] args) {
 		int num = 11;
